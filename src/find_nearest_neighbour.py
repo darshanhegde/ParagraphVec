@@ -74,7 +74,7 @@ class ParagraphNearestNeaighbour:
         for test_sentence in test_senteces:
             sent_idx, sentence = test_sentence.strip().split("\t")
             print " Given sentence: ", sentence
-            out_file.write(" \\textbf{" + sentence + " } & - \\\\ \\hline\n")
+            out_file.write(" Given: " + sentence + "\n")
             sent_idx = int(sent_idx)-1
             sent_rep = self.model[sent_idx]
             dists = np.dot(self.model, sent_rep)
@@ -82,7 +82,7 @@ class ParagraphNearestNeaighbour:
             results = [(self.sentences[sim], float(dists[sim])) for sim in best]
             for sentence, score in results[1:]:
                 print " ".join(sentence), score
-                out_file.write(" ".join(sentence) + " & " + str(score) + " \\\\ \\hline \n")
+                out_file.write(" ".join(sentence) + str(score) + "\n")
             out_file.write("\n\n")
             print "\n"
         test_senteces.close()
@@ -92,7 +92,7 @@ class ParagraphNearestNeaighbour:
 def main():
     collect_model_files("../model_sub/", "paragraph_model", 96, "../data/paragraph_data.txt", "../model/paragraph_model.pkl")
     PVNN = ParagraphNearestNeaighbour("../model/paragraph_model.pkl", "../data/paragraph_data.txt")
-    PVNN.find_nearest_neighbours("../data/nn_sentences.txt", "../result/nn_sentences_result.txt", 5)
+    PVNN.find_nearest_neighbours("../data/nn_sentences.txt", "../results/nn_sentences_result.txt", 5)
 
 if __name__ == '__main__':
     main()
