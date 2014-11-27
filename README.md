@@ -40,9 +40,7 @@ Once the paragraph vectors are trained. We can check the correctness by launchin
 
 $python find_nearest_neighbour.py
 
-This script will printout 20 test sentences and their nearest neighbors. As long as nearest neighbors semantically make 
-sense we have everything running fine. Notice that, paragraph vector algorithm finds nearest neighbors in a semantic sense
-and has non-trivial generalization as explained in the writeup. 
+This script will printout 20 test sentences and their nearest neighbors. As long as nearest neighbors semantically make sense we have everything running fine. Notice that, paragraph vector algorithm finds nearest neighbors in a semantic sense and has non-trivial generalization as explained in the writeup. 
 
 
 
