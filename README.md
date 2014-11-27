@@ -36,6 +36,9 @@ Now, we are ready to lauch the paragraph vector code. Change your directory to .
 
 $python paragraph_vector.py gpu 512
 
+In general, python paragraph_vector.py <gpu/cpu> <num_batches> where 1st parameter indicates whether to run it on GPU or CPU. 2nd indicates the size of corpus to run on.
+Also, if size is greater than actual size of underlying corpus, the code will run for the full corpus and stop.
+
 Once the paragraph vectors are trained. We can check the correctness by launching the nearest neighbor script.
 
 $python find_nearest_neighbour.py
