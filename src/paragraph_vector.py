@@ -234,7 +234,7 @@ class ParagraphVector:
             words_gpu = cuda.to_device(words)
             kernel(self.sent_reps_gpu, np.float32(self.alpha), words_gpu, self.base_word_rep, self.syn1_gpu,
                    block=(self.size, 1, 1), grid=(self.num_sents, 1, 1))
-            autoinit.context.synchronize()
+            # autoinit.context.synchronize()
         self.sent_reps = cuda.from_device(self.sent_reps_gpu, self.sent_reps.shape, self.sent_reps.dtype)
         pickle_dump(self.sent_reps, model_file_path)
 
@@ -295,7 +295,7 @@ def main():
     print "Running on", gpu, " with max-batch size: ", max_batches
     PV = ParagraphVector("../data/paragraph_data.txt", "../model/syn1.pkl", "../model/words_rep.pkl", "../model_sub/paragraph_model",
                          num_iter=200, gpu=gpu, max_batches=max_batches)
-    results = PV.find_closest(sentence_idx=15, topn=5)
+    results = PV.find_closest(sentence_idx=24, topn=5)
     for result, score in results:
         print " ".join(result), score
 
