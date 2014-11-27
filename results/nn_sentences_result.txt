@@ -1,0 +1,160 @@
+ \textbf{what a film what a cast...what music !! } & - \\ \hline
+just what a g-fan wants! & 0.737604677677 \\ \hline 
+ok: so what makes a film a "10"? & 0.726824462414 \\ \hline 
+and what a horrible story it tells. & 0.709161400795 \\ \hline 
+and what a debut it is. & 0.708971381187 \\ \hline 
+and what is a quasi-plagiarist rip-off? & 0.698133707047 \\ \hline 
+
+
+ \textbf{i was laughing my ass off. } & - \\ \hline
+i was laughing my butt off. & 0.925687730312 \\ \hline 
+this thing had me laughing my ass off all day. & 0.920499563217 \\ \hline 
+i was laughing my head off! & 0.907789826393 \\ \hline 
+her tryout test is a scream, i was laughing my head off. & 0.893010377884 \\ \hline 
+that being said, i did laugh my ass off watching it. & 0.886018514633 \\ \hline 
+
+
+ \textbf{she was great and put those other actresses to shame. } & - \\ \hline
+everyone played a great part from unknown people to vivek, nana, saif and others. & 0.796581208706 \\ \hline 
+i believe chloe will be starring in other movie's, as she is a good actress like her mother. & 0.752288043499 \\ \hline 
+i liked it that luck played a part in jaguar paw's endeavours. & 0.741691172123 \\ \hline 
+half the cast members don't seem to be into this story, either, especially duvall who usually gives great performances. & 0.739531993866 \\ \hline 
+david will come to his senses and will realize he has loved rachel all along. & 0.739332199097 \\ \hline 
+
+
+ \textbf{the album for this film sold very well for her. } & - \\ \hline
+when he lets a poor old lady not to pay the full price for whatever she was buying). & 0.683684110641 \\ \hline 
+when she distracted the nazi spy he was not alone. & 0.677781522274 \\ \hline 
+he is waiting for the right time to free her. & 0.674217224121 \\ \hline 
+she agrees with the judge and tells him not to tell farley she was there. & 0.649773418903 \\ \hline 
+reyes finally agrees to go along with doggett so that he's not completely alone. & 0.643677830696 \\ \hline 
+
+
+ \textbf{i'll be honest with you. } & - \\ \hline
+ok, i'll be honest with you. & 0.938422322273 \\ \hline 
+i'll tell you; it will be turkey. & 0.843528151512 \\ \hline 
+you won't be disappointed, i guarantee you. & 0.842787504196 \\ \hline 
+now this movie may not be for everyone. & 0.828628003597 \\ \hline 
+i'll try my best to be objective but it won't be easy. & 0.819331347942 \\ \hline 
+
+
+ \textbf{this is a major piece of crap. } & - \\ \hline
+this is a piece of crap. & 0.908450365067 \\ \hline 
+this film was a piece of crap. & 0.880808055401 \\ \hline 
+it was a piece of crap. & 0.878017604351 \\ \hline 
+what a total piece of crap. & 0.842956960201 \\ \hline 
+this really is an enormous piece of crap. & 0.832612335682 \\ \hline 
+
+
+ \textbf{however, their performances are wonderful. } & - \\ \hline
+their characters are believable and their stories are compelling. & 0.776275575161 \\ \hline 
+the actors are all non-profi's and they play wonderful. & 0.753200173378 \\ \hline 
+all the actors were wonderful. & 0.740431249142 \\ \hline 
+the actors are great and their characters absolutely loveable. & 0.721654713154 \\ \hline 
+the other performances are equally crucial. & 0.718962967396 \\ \hline 
+
+
+ \textbf{it was positively beyond extraordinary. } & - \\ \hline
+this was it for rachel, acting- wise. & 0.789445877075 \\ \hline 
+is it what it seems? & 0.771592259407 \\ \hline 
+acting-wise it was beyond poor! & 0.770171642303 \\ \hline 
+it had a story, good characters, it was exciting, and it was based on a real story! & 0.742095708847 \\ \hline 
+so what is it fez? & 0.735688924789 \\ \hline 
+
+
+ \textbf{he deserved an academy nomination at the very least. } & - \\ \hline
+duvall certainly deserved his academy award nomination. & 0.884090423584 \\ \hline 
+gloria grahme however was honored with an academy award for her delightful and refreshingly sanguine portrayal of rosemary. & 0.862568259239 \\ \hline 
+actress gloria grahame won an academy award. & 0.85575735569 \\ \hline 
+i am one of many who also feel she deserved an academy award for her portrayal of ruth etting. & 0.849912762642 \\ \hline 
+daniel day-lewis should have received the best actor award at the academy awards. & 0.849499940872 \\ \hline 
+
+
+ \textbf{it was an extremely complex performance. } & - \\ \hline
+...this is an extremely well-conceived, well-written, well-acted, and well-made film. & 0.814605236053 \\ \hline 
+this is an enjoyable movie. & 0.808884620667 \\ \hline 
+this is an exceptionally powerful film. & 0.798255681992 \\ \hline 
+it is an awe-inspiring performance. & 0.795965909958 \\ \hline 
+this was an unusual movie. & 0.792721450329 \\ \hline 
+
+
+ \textbf{i suggest it for people of any age. } & - \\ \hline
+i was unhappy with the final cut of this film and do not suggest it to anyone. & 0.83597946167 \\ \hline 
+i hate it when all i can think of while watching any movie is: "when will it end? & 0.833575963974 \\ \hline 
+by watching this movie i experienced no feeling of being entertained at all, it is definitely good for the trashcan. & 0.828839421272 \\ \hline 
+look elsewhere for religious humor not so puerile, i suggest "the life of brian". & 0.828546762466 \\ \hline 
+the people who knock this movie have no sense of what makes a movie funny. & 0.82424646616 \\ \hline 
+
+
+ \textbf{i give it a 10 } & - \\ \hline
+i give it a 10. & 0.913980305195 \\ \hline 
+i give it a ten. & 0.910130143166 \\ \hline 
+i give it a 9 out of 10 & 0.890764474869 \\ \hline 
+i give it a 10! & 0.886338114738 \\ \hline 
+i give it a 10. :) & 0.883612632751 \\ \hline 
+
+
+ \textbf{i really loved this movie. } & - \\ \hline
+i really loved this movie. & 0.999340713024 \\ \hline 
+i really loved this movie. & 0.989908218384 \\ \hline 
+i just loved this movie. & 0.967253744602 \\ \hline 
+...........possible spoilers.......... i just loved this movie. & 0.961181879044 \\ \hline 
+i really loved the movie. & 0.959884941578 \\ \hline 
+
+
+ \textbf{she looked lovely and her voice was done really well. } & - \\ \hline
+she looked amazing and i was completely mesmerized by her beauty. & 0.826635479927 \\ \hline 
+she plays her part very well. & 0.816613674164 \\ \hline 
+she just clicked in the role and it worked wonderfully well. & 0.799343049526 \\ \hline 
+preity looks great in her new look and has acted well. & 0.789747416973 \\ \hline 
+oh and did i mention she looked hot in those pants! & 0.784641623497 \\ \hline 
+
+
+ \textbf{does anyone know this picture's name? } & - \\ \hline
+i don't know how anyone can give this movie a good review. & 0.66710793972 \\ \hline 
+if anyone who reads this knows if it exists, even on vhs, i'd love to know about it! & 0.662120223045 \\ \hline 
+does anyone know where one can find a copy of this movie? & 0.65850675106 \\ \hline 
+how could this guy possibly know this? & 0.656425178051 \\ \hline 
+does anyone know where one can find a copy of this movie? & 0.654277443886 \\ \hline 
+
+
+ \textbf{i was really disappointed in this movie. } & - \\ \hline
+i was really disappointed with this movie. & 0.987457334995 \\ \hline 
+i was really disappointed with this movie. & 0.974037408829 \\ \hline 
+i was very disappointed in this movie. & 0.968364655972 \\ \hline 
+i was very disappointed in this movie. & 0.965489625931 \\ \hline 
+i was very disappointed in this movie. & 0.963207602501 \\ \hline 
+
+
+ \textbf{the acting i admit was a bit mediocre. } & - \\ \hline
+sadly the score didn't have that approach, it was at times just a bit too much. & 0.857399463654 \\ \hline 
+i thought it was a bit too obvious in a way though. & 0.852851390839 \\ \hline 
+what brought my score for almost heroes down slightly was the fact that it may be a bit too episodic. & 0.845342636108 \\ \hline 
+though it was a little bit frightening..... man this movie was off the wall! & 0.842065572739 \\ \hline 
+the only problem with the movie is this, i wish it was a little bit longer. & 0.840585231781 \\ \hline 
+
+
+ \textbf{i saw the unrated version from netflix. } & - \\ \hline
+i saw it as part of the popeye the sailor volume 2 (1938-1940) dvd. & 0.721547722816 \\ \hline 
+i watched the subtitled version of the film. & 0.717457652092 \\ \hline 
+the dvd i rented had all the zits and dust of the original film. & 0.68967628479 \\ \hline 
+i just saw this series collection box at a store, was fooled by it's cover and bought it. & 0.686215996742 \\ \hline 
+but for me, this is the definitive version of the film. & 0.683518886566 \\ \hline 
+
+
+ \textbf{their emphasis is on cultural understanding. } & - \\ \hline
+the story focuses on the themes of identity, vanity and the constant pressure to improve our own personal appearance. & 0.741940736771 \\ \hline 
+moreover, carrère's film closely focuses on a man struggling with the inevitable loss of his personal identity. & 0.734827816486 \\ \hline 
+various points on the conflict and its aftermath inevitably bubble to the surface, but arise without overt proselytizing. & 0.734158098698 \\ \hline 
+instead of focusing on the woman's struggle and fear, they focuse on the "cool" visuals and sounds. & 0.734044671059 \\ \hline 
+the story deftly renders the awkward and secretive moral climate around alcohol, sex, and infidelity in post- wwii america. & 0.733528196812 \\ \hline 
+
+
+ \textbf{i would like to say that i enjoyed reading the excellent comments of others about this movie. } & - \\ \hline
+i recommend this movie to everyone i talk to about movies. & 0.895561933517 \\ \hline 
+i signed up for this membership to say something after reading all the negative comments on this movie. & 0.89488440752 \\ \hline 
+that said, i enjoyed it. & 0.894767522812 \\ \hline 
+i have to say i really enjoyed the film. & 0.890761494637 \\ \hline 
+unlike other other comments i have read about this movie, i enjoyed the film. & 0.881510138512 \\ \hline 
+
+
