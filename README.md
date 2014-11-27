@@ -1,4 +1,4 @@
-ParagraphVecCUDA
+ParagraphVec
 ================
 
 Project submission for CSCI-GA.3033-004 Graphics Processing Units (GPUs): Architecture and Programming.
