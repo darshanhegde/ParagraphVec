@@ -295,9 +295,10 @@ def main():
     print "Running on", gpu, " with max-batch size: ", max_batches
     PV = ParagraphVector("../data/paragraph_data.txt", "../model/syn1.pkl", "../model/words_rep.pkl", "../model_sub/paragraph_model",
                          num_iter=200, gpu=gpu, max_batches=max_batches)
-    results = PV.find_closest(sentence_idx=24, topn=5)
-    for result, score in results:
-        print " ".join(result), score
+    print "Done training."
+#     results = PV.find_closest(sentence_idx=24, topn=5)
+#     for result, score in results:
+#         print " ".join(result), score
 
 if __name__ == '__main__':
     main()
